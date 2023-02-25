@@ -1,5 +1,3 @@
-In this series of articles on amplifiers, we will give you a complete guide on how to make your own amplifier circuit. Where we start by finding out what the proposed circuit should do and how it can be done.
-
 The article is being published in collaboration with JLCPCB. They supply high quality PCBs at a very reasonable price. They also can provide SMT circuit assembly.
 
 The final circuit diagram and design can be seen above. We also thank to our sponsor JLCPCB (https://jlcpcb.com/RTA) for sponsoring us PCB for this project.
@@ -11,12 +9,14 @@ $2 for 1-4 Layer PCBs.
 Get SMT Coupons - https://jlcpcb.com/RTA
 
 
+In this series of articles on amplifiers, we will give you a complete guide on how to make your own amplifier circuit. Where we start by finding out what the proposed circuit should do and how it can be done.
+
+
 This is a simple and easy to build project that anyone can do. This amp circuit makes use of transistors, sound IC, capacitors and resistors to complete this project.
 
 Throughout this project, we'll be exploring the ins and outs of amplifier design, from choosing the right components to fine-tuning the circuit for optimal performance. Whether you're a seasoned electronics pro or just starting out, there's something here for everyone.
 
 We encourage you to ask questions, share your own insights and experiences, and collaborate with your fellow project members as we work towards our goal of building an exceptional amplifier circuit. Let's get started!
-
 
 
 Component List - 
@@ -86,7 +86,6 @@ Then connect 10µf/25v capacitor positive leg with 1no leg of sound IC and conne
 Now connect this two capacitors empty terminal with each other.
 
 
-
 Connect Resistor with circuit - 
 
 We are using two resistors to make this circuit. One is 680 Ω and the other one is 100 KΩ.
@@ -99,7 +98,9 @@ Connect 100µf/25v Capacitor with Circuit -
 
 We are using 3 pieces 100µf/ 25v capacitor. We connect 1st piece capacitor negative terminal with 3no leg of sound IC and it's positive terminal with 5no leg of sound IC.
 
+
 Then we connect 2nd piece capacitor negative leg with 12no leg of sound IC and it's positive terminal with 13no leg of sound IC.
+
 
 This time we connect 3rd piece capacitor positive leg with 9no leg of sound IC and it's negative terminal with 10no leg of sound IC.
 
@@ -214,4 +215,3 @@ To confirm your order, pay your payment. Then accept PayPal, Credit/Debit Card, 
 All PCBs were well packed and quality was really good.
 
 Thanks to JLCPCB for best quality PCBs.
-

@@ -1,4 +1,5 @@
 In this series of articles on amplifiers, we will give you a complete guide on how to make your own amplifier circuit. Where we start by finding out what the proposed circuit should do and how it can be done.
+
 The article is being published in collaboration with JLCPCB. They supply high quality PCBs at a very reasonable price. They also can provide SMT circuit assembly.
 
 The final circuit diagram and design can be seen above. We also thank to our sponsor JLCPCB (https://jlcpcb.com/RTA) for sponsoring us PCB for this project.
@@ -8,6 +9,7 @@ Thanks To JLCPCB.
 $2 for 1-4 Layer PCBs.
 
 Get SMT Coupons - https://jlcpcb.com/RTA
+
 
 This is a simple and easy to build project that anyone can do. This amp circuit makes use of transistors, sound IC, capacitors and resistors to complete this project.
 
@@ -84,6 +86,7 @@ Then connect 10µf/25v capacitor positive leg with 1no leg of sound IC and conne
 Now connect this two capacitors empty terminal with each other.
 
 
+
 Connect Resistor with circuit - 
 
 We are using two resistors to make this circuit. One is 680 Ω and the other one is 100 KΩ.
@@ -109,6 +112,7 @@ Now we connect Ground cable with 14no leg of sound IC and connect Left/ Right ca
 
 
 Connect Speaker Cable with Circuit - 
+
 For output signal, now we need to connect a sound speaker with the circuit. We connect sound speaker one terminal with 10no leg of sound IC and another terminal with 12no leg of sound IC.
 
 
@@ -118,12 +122,14 @@ For power source, we are using DC-12v power supply adaptor. To make this circuit
 
 
 Soldering And Cleaning - 
+
 Neat and perfect soldering is an important part for all kind of PCBs. Since soldering, you should remember that, there should not be any kind of short circuit connection. After soldering all leg, we cut-off  the extra leg of all electronics component.
 
 We also can use liquid PCB cleaner to clean the PCB board.
 
 
 Final Action - 
+
 Our circuit, is now completely ready for use. Now just plug-in the audio source with amplifier circuit and enjoy the surrounding sound effect of this amplifier circuit
 
 Again thanks to JLCPCB for best quality PCBs.
@@ -170,6 +176,7 @@ To order your SMT PCBs, visit JLCPCB.
 Shipping and Billing - 
 
 JLCPCB supported all shipping method can be seen below. 
+
 
 Estimated Delivery Time -
 
